@@ -1,1 +1,1 @@
-This is my Touchstone submission. Main technologies used are React + NextJs and TailwindCSS. These are just libraries and frameworks that make development faster and easier.
+This is my Touchstone submission. Main technologies used are React + NextJs and TailwindCSS. These are just libraries and frameworks that make development faster and easier. My IDE does not have a share link option, so I hope this will suffice. 
